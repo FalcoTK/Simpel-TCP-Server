@@ -3,13 +3,20 @@ Tcp server template, accepts connections from public ip
 # 🤔 How To use :
 
 ```
-git clone https://github.com/aboul3la/Sublist3r.git
+git clone https://github.com/RoncasOTN/Simpel-TCP-Server.git
 ```
 - Installation on Windows:
 ```
-c:\python27\python.exe -m pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 - Installation on Linux
 ```
 sudo pip install -r requirements.txt
 ```
+- Run On Windows & Linux:
+```
+pyton main.py
+```
+
+# ❓ Any Question ?
+you can make issues or dm me on instagram :D
